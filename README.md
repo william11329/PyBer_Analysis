@@ -7,7 +7,7 @@ The purpose of this was to analyze provided PyBer ride sharing data to better un
 - Urban cities provide provide more than 4 times the amount of drivers than suburban but the average fare per driver is less than half
 - Rural and suburban cities have a higher rides to drivers ratio and is reflected by higher fares 
 
-https://github.com/william11329/PyBer_Analysis/blob/main/analysis/pyber_fare_summary.png
+https://github.com/william11329/PyBer_Analysis/blob/main/analysis/pyber_fare_summary.png?raw=true
 
 https://github.com/william11329/PyBer_Analysis/blob/main/summary_dataframe.png
 
